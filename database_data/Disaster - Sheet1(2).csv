@@ -1,0 +1,93 @@
+Disaster_id,acres_burnt,cost,title,disaster_type_id,length_id,size_id
+1,3166,NULL,Summit Fire,1,1,1
+2,24251,NULL,Springs Fire,1,2,2
+3,30274,NULL,Powerhouse Fire,1,3,3
+4,1383,NULL,Falls Fire,1,4,4
+5,20292,NULL,Silver Fire,1,5,5
+6,257314,127000000,Rim Fire,1,6,6
+7,8073,65000000,Clover Fire,1,7,7
+8,1952,NULL,Colby Fire,1,8,8
+9,600,22500000,Poinsettia Fire,1,9,9
+10,1995,5700000,Cocos Fire,1,10,10
+11,4300,NULL,Butts Fire,1,11,11
+12,32416,20000000,Eiler Fire,1,12,12
+13,35302,40.81,Oregon Gulch Fire ,1,13,13
+14,13153,40.81,Day Fire,1,14,14
+15,39736,40.81,Bald Fire,1,15,15
+16,612,NULL,Junction Fire,1,16,16
+17,4045,40.81,Way Fire,1,17,17
+18,580,NULL,Oregon Fire,1,18,18
+19,NULL,362000000,South Napa Earthquake,2,19,19
+20,300,NULL,Bridge Fire,1,20,20
+21,97000,NULL,King Fire,1,21,21
+22,320,NULL,Courtney Fire,1,22,22
+23,516,NULL,Boles Fire,1,23,23
+24,459,NULL,Applegate Fire,1,24,24
+25,4250,NULL,North Fire,1,25,25
+26,8501,NULL,Wragg Fire,1,26,26
+27,69438,1590300000,Rocky Fire,1,27,27
+28,1042,1590300000,Butte Fire,1,28,28
+29,109,1590300000,Valley Fire,1,29,29
+30,0,NULL,Old Fire,1,30,30
+31,7609,NULL,Border Fire,1,31,31
+32,5399,NULL,Fish Fire,1,32,32
+33,48019,19300000,Erskine Fire,1,33,33
+34,1109,NULL,Sage Fire,1,34,34
+35,41432,NULL,Sand Fire,1,35,35
+36,132127,260000000,Soberanes Fire,1,36,36
+37,2241,NULL,Goose Fire,1,37,37
+38,8110,NULL,Pilot Fire,1,38,38
+39,3929,NULL,Clayton Fire,1,39,39
+40,46344,NULL,Chimney Fire,1,40,40
+41,36274,NULL,Blue Cut Fire,1,41,41
+42,29322,1331000000,Cedar Fire,1,42,42
+43,NULL,1550000000,2017 Floods,3,43,43
+44,6033,NULL,Wall Fire,1,44,44
+45,81826,NULL,Detwiler Fire,1,45,45
+46,12407,NULL,Railroad Fire,1,46,46
+47,36556,NULL,Pier Fire,1,47,47
+48,21846,NULL,Helena - Fork Fire,1,48,48
+49,7194,NULL,La Tuna Fire,1,49,49
+50,1035,NULL,Mission Fire,1,50,50
+51,2662,12000000,Canyon Fire,1,51,51
+52,36807,1330000000,Tubbs Fire,1,52,52
+53,9989,1881420000,Cascade Fire (Wind Complex),1,53,53
+54,56556,1881420000,Nun Fire,1,54,54
+55,245000,1881420000,Wildfires ,1,55,55
+56,2207,1881420000,Sulphur Fire (Mendocino Lake Complex),1,56,56
+57,76,1881420000,Atlas Fire,1,57,57
+58,821,1881420000,Lobo Fire (Wind Complex),1,58,58
+59,6151,1881420000,LaPorte Fire (Wind Complex),1,59,59
+60,36523,NULL,Redwood Valley Fire (Mendocino Lake Complex),1,60,60
+61,0,NULL,Partrick Fire (Central LNU Complex),1,61,61
+62,9217,NULL,Canyon 2 Fire,1,62,62
+63,281893,220000000,Thomas Fire,1,63,63
+64,5823,NULL,James Fire,1,64,64
+65,307900,NULL,Wildfire ,1,65,65
+66,15619,NULL,Creek Fire,1,66,66
+67,6049,NULL,Rye Fire,1,67,67
+68,422,NULL,Skirball Fire,1,68,68
+69,4100,8900000,Lilac Fire,1,69,69
+70,15185,36500000,Pawnee Fire,1,70,70
+71,1678,NULL,Creek Fire,1,71,71
+72,38008,34500000,Klamathon Fire,1,72,72
+73,504,NULL,West Fire,1,73,73
+74,113,NULL,Holiday Fire,1,74,74
+75,13139,22060000,Cranston Fire,1,75,75
+76,410203,257000000,Ranch Fire (Mendocino Complex),1,76,76
+77,229651,1659000000,Carr Fire,1,77,77
+78,23136,25700000,Holy Fire,1,78,78
+79,153336,166500000,Camp Fire,1,79,79
+80,4531,NULL,Hill Fire,1,80,80
+81,96949,60000000,Woolsey Fire,1,81,81
+82,NULL,53000000,2019 Ridgecrest earthquakes,2,82,82
+83,8799,NULL,Saddle Ridge Fire,1,83,83
+84,77758,NULL,Kincade Fire,1,84,84
+85,4615,NULL,Tick Fire,1,85,85
+86,745,NULL,Getty Fire,1,86,86
+87,1806,NULL,Easy Fire,1,87,87
+88,494,NULL,Hill Fire,1,88,88
+89,328,NULL,46 Fire,1,89,89
+90,200,NULL,Hillside Fire,1,90,90
+91,9999,NULL,Maria Fire,1,91,91
+92,3126,NULL,Cave Fire,1,92,92

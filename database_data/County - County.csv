@@ -1,0 +1,61 @@
+county_id,county_name,fips,population
+1,Alameda County,1,1578891
+2,Alpine County,3,1159
+3,Amador County,5,36519
+4,Butte County,7,222090
+5,Calaveras County,9,44515
+6,Colusa County,11,21358
+7,Contra Costa County,13,1094205
+8,Del Norte County,15,27873
+9,El Dorado County,17,181737
+10,Fresno County,19,955272
+11,Glenn County,21,27940
+12,Humboldt County,23,134493
+13,Imperial County,25,176584
+14,Inyo County,27,18467
+15,Kern County,29,864124
+16,Kings County,31,150960
+17,Lake County,33,63860
+18,Lassen County,35,32163
+19,Los Angeles County,37,10017068
+20,Madera County,39,152389
+21,Marin County,41,258365
+22,Mariposa County,43,17755
+23,Mendocino County,45,87192
+24,Merced County,47,263228
+25,Modoc County,49,9147
+26,Mono County,51,14074
+27,Monterey County,53,428826
+28,Napa County,55,140326
+29,Nevada County,57,98200
+30,Orange County,59,3114363
+31,Placer County,61,367309
+32,Plumas County,63,18859
+33,Riverside County,65,2292507
+34,Sacramento County,67,1462131
+35,San Benito County,69,57600
+36,San Bernardino County,71,2088371
+37,San Diego County,73,3211252
+38,San Francisco County,75,837442
+39,San Joaquin County,77,704379
+40,San Luis Obispo County,79,276443
+41,San Mateo County,81,747373
+42,Santa Barbara County,83,435697
+43,Santa Clara County,85,1862041
+44,Santa Cruz County,87,269419
+45,Shasta County,89,178980
+46,Sierra County,91,3047
+47,Siskiyou County,93,43799
+48,Solano County,95,424788
+49,Sonoma County,97,495025
+50,Stanislaus County,99,525491
+51,Sutter County,101,95350
+52,Tehama County,103,63057
+53,Trinity County,105,13448
+54,Tulare County,107,454143
+55,Tuolumne County,109,53874
+56,Ventura County,111,839620
+57,Yolo County,113,204593
+58,Yuba County,115,73340
+59,Karuk Reservation,NULL,3555
+60,Hopland Rancheria,6,"86,932"
