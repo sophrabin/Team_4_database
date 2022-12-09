@@ -1,5 +1,7 @@
 use team_4_database; 
 
+DROP VIEW IF EXISTS county_disaster_count;
+
 CREATE VIEW county_disaster_count AS 
 SELECT county_name, COUNT(location_has_disaster.disaster_id) AS "Disaster Count", population
 FROM disaster 
@@ -7,6 +9,8 @@ JOIN location_has_disaster ON location_has_disaster.disaster_id = disaster.disas
 JOIN location ON location.county_id = location_has_disaster.county_id
 GROUP BY(location_has_disaster.county_id)
 ORDER BY(COUNT(location_has_disaster.disaster_id)) DESC;
+
+DROP VIEW IF EXISTS cost_per_capita_and_length;
 
 CREATE VIEW cost_per_capita_and_length AS 
 SELECT total_damage/population AS "cost_per_capita", county_name, AVG(days)
