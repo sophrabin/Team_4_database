@@ -1,1 +1,22 @@
+use team_4_database; 
 
+CREATE VIEW county_disaster_count AS 
+SELECT county_name, COUNT(location_has_disaster.disaster_id) AS "Disaster Count", population
+FROM disaster 
+JOIN location_has_disaster ON location_has_disaster.disaster_id = disaster.disaster_id
+JOIN location ON location.county_id = location_has_disaster.county_id
+GROUP BY(location_has_disaster.county_id)
+ORDER BY(COUNT(location_has_disaster.disaster_id)) DESC;
+
+CREATE VIEW cost_per_capita_and_length AS 
+SELECT total_damage/population AS "cost_per_capita", county_name, AVG(days)
+FROM (
+	SELECT county_name, COUNT(location_has_disaster.disaster_id) AS "Disaster_Count", SUM(cost) AS "total_damage", population, length_id
+	FROM disaster 
+	JOIN location_has_disaster ON location_has_disaster.disaster_id = disaster.disaster_id
+	JOIN location ON location.county_id = location_has_disaster.county_id
+	GROUP BY(location_has_disaster.county_id)
+) AS T
+JOIN disaster_length ON disaster_length.length_id = T.length_id
+GROUP BY (county_name)
+ORDER BY (cost_per_capita) DESC;
